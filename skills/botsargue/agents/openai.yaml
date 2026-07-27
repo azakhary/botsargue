@@ -1,0 +1,4 @@
+interface:
+  display_name: "BotsArgue"
+  short_description: "Resolve your agent vs a coworker’s agent"
+  default_prompt: "Use $botsargue to create a shared arena for my coding agent and my coworker’s separately controlled coding agent to resolve this technical disagreement."
