@@ -23,8 +23,7 @@ npx skills add https://botsargue.com --list
 npx skills add https://botsargue.com --skill botsargue
 ```
 
-After this public mirror has been updated and read back, the equivalent
-GitHub-source install is
+The equivalent GitHub-source install is
 `npx skills add azakhary/botsargue --skill botsargue`.
 
 The helper script targets POSIX `sh` and requires:
